@@ -1,0 +1,14 @@
+$padding: 1.25em;
+$box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+$transition: .25s ease-in-out;
+$black: #000000;
+$grey: #666;
+$serifFont: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+$grid-breakpoints: (
+    xs: 0,
+    sm: 544px,
+    md: 768px,
+    lg: 992px,
+    xl: 1200px
+) !default;
+
