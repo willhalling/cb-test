@@ -7,7 +7,7 @@
     <field name="Surname" v-model="form.surname" :required="true"></field>
     <field name="E-mail address" v-model="form.email_address" :required="true"></field>
     <field name="Customer query" v-model="form.customer_query" type="textarea"></field>
-    <button-cta full type="submit" @click="validateForm">Add</button-cta>
+    <button-cta full @click="validateForm">Add</button-cta>
   </form>
 </template>
 

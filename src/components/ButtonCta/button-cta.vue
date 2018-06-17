@@ -9,7 +9,7 @@
 
 <script>
   export default {
-    name: 'button',
+    name: 'button_cta',
 
     props: {
       text: {
