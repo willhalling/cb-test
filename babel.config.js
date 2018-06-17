@@ -1,5 +1,6 @@
-module.exports = {
-  presets: [
-    '@vue/app'
-  ]
-}
+.DS_Store
+node_modules
+
+# local env files
+.env.local
+.env.*.local
