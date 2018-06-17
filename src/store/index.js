@@ -9,9 +9,7 @@ const store = new Vuex.Store({
 
   modules: {
     form
-    /*
-      ... more modules could go here
-    */
+    // more modules could go here...
   }
 })
 
